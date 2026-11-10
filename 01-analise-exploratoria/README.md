@@ -1,34 +1,18 @@
-# Projeto 01 - Análise Exploratória de Dados
+# Projeto 01 - Análise Exploratória Olist
 
 ## Objetivo
 
-Realizar análises exploratórias para descobrir padrões, tendências e insights relevantes nos dados.
+Analisar o processo logístico dos pedidos da plataforma Olist.
 
-## Ferramentas
+## Principais Descobertas
+
+- A maioria das entregas ocorreu entre 8 e 14 dias.
+- Entregas acima de 60 dias representam uma pequena parcela da operação.
+- A visualização por faixas de entrega apresentou melhor comunicação dos resultados do que o histograma tradicional.
+
+## Ferramentas Utilizadas
 
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
-
-## Estrutura
-
-```text
-01-analise-exploratoria/
-│
-├── data/
-├── notebooks/
-├── images/
-└── README.md
-```
-
-## Status
-
-🚧 Em desenvolvimento
-
-## Próximos Passos
-
-- Importar dataset
-- Limpar dados
-- Criar gráficos
-- Gerar insights de negócio
